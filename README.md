@@ -1,1 +1,1 @@
-# SQL-Assignment
+# SQL-Case Study Data Analysis
